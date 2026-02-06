@@ -1,0 +1,34 @@
+========================================
+  IMPORTANT: SAVE YOUR IMAGES HERE
+========================================
+
+Please save these images in this folder:
+c:\Users\Mario\Downloads\SHAHEEN\website\
+
+REQUIRED IMAGES:
+----------------
+
+1. YOUR PROFILE PHOTO:
+   - Save your photo (the one you sent earlier) as: profile-anil.jpg
+   - Location: c:\Users\Mario\Downloads\SHAHEEN\website\profile-anil.jpg
+
+2. SHAHEEN CLUB LOGO:
+   - Save one of your club logos as: shaheen-logo-1.png
+   - Location: c:\Users\Mario\Downloads\SHAHEEN\website\shaheen-logo-1.png
+
+3. YELLOW LONG-SLEEVE JERSEY (Optional):
+   - Save the yellow jersey image you sent as: yellow-jersey-long.jpg
+   - Location: c:\Users\Mario\Downloads\SHAHEEN\website\yellow-jersey-long.jpg
+   - (Currently using existing image from YELLOW folder as backup)
+
+HOW TO SAVE:
+------------
+1. Right-click on the image from our chat
+2. Select "Save Image As..."
+3. Navigate to: c:\Users\Mario\Downloads\SHAHEEN\website\
+4. Type the exact filename mentioned above
+5. Click Save
+
+After saving all images, refresh your browser (F5) to see them appear!
+
+========================================
